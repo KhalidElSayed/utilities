@@ -1,6 +1,7 @@
 package com.alorma.utils;
 
 /**
+ * Class that manage LoaderManager ids.
  * Created by alorma on 18/05/13.
  */
 public class LoaderId {
